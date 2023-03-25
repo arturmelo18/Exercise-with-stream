@@ -28,11 +28,11 @@ public class Employee {
 		this.email = email;
 	}
 
-	public Double getsalary() {
+	public Double getSalary() {
 		return salary;
 	}
 
-	public void setsalary(Double salary) {
+	public void setSalary(Double salary) {
 		this.salary = salary;
 	}
 
